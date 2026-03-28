@@ -1,4 +1,11 @@
 <!-- markdownlint-disable MD033 MD041 -->
+# Recuperación de información en la Web
+
+## Mi aporte
+- src/scraping
+- interfaz/menu.py
+
+
 
 <p align="center"><img src="./images/untref-logo.svg" alt="UNTreF" /></p>
 
